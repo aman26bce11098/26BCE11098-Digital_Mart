@@ -64,6 +64,18 @@ Through this project, I practiced:
 - Using lists to manage data
 - Implementing conditional statements and loops
 
+## How to run 
+- When running the code , the user will get multiple options , such as Displaying the available items in the Digital Mart , How many items they want to purchase , etc.
+- Its recommended that the user goes through the option one by one .
+- Firstly , the user will asked number items he wants to purchase.
+- Next , the user will be asked to enter serial number of the respective items they want to purchase .
+>**Note:** The user will be asked to enter y(for yes) before finalising the order also if he want to add or remove items. 
+- Accordingly , user can use add and remove feature by entering y(for contine) and n(to exit) and by writing s.no it will ad or remove items respectively .
+>**Note:** If user want to remove any item(s) from cart he must enter the same item(s) which is already present in the cart.
+- This whole process is in a looping statement (while) and hence it will ask user to contine( on entering 1 ) and exit( on entering 0 ).
+- After the purchase it has discount feature which give discount on total spend.
+- Finally , it will generate a detailed bill of purchase .
+
 ## Author
 
 **Aman singh kushwaha**
