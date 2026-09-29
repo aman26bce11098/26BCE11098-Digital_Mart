@@ -4,26 +4,21 @@ Digital Mart
 ## Objective
 The objective of this project is to develop a Digital Mart which make purchasing simple and fast.
 
-## Problem Statement
+## Problem Description
 
 Digital Mart is a simple command line shopping program written in Python language. It allows a user to view available grocery items, 
 select items to purchase, manage the shopping cart by adding and removing items from the cart, gives discount and generate a detailed final bill.
 
+## Features
+
+- Menu to show availability of different grocery products
+- Add or remove products after selecting once
+- Makes a bill of all the items purchased
+- Avail various discounts based on total billing price
+  
 ## Target Users
 
 Students who are learning Python programming .
-
-## Project Flow
-
-- Display the Digital Mart menu.
-- Show the available items.
-- Ask the user how many items they want to purchase.
-- Take the serial number of each selected item(s).
-- Add valid selections to the cart.
-- Ask whether the user wants to add or remove items.
-- Update the cart if required.
-- Display the final cart.
-- Generate the final bill and discount.
 
 ## Project Outcome
 
