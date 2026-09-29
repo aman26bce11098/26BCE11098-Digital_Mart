@@ -49,14 +49,6 @@ def remove(cart,list_of_items):
                 print("Number should be in range 1 to 5")
                 print("_"*60)
 
-
-
-
-
-
-
-
-
 def bill_and_discount(list_of_items,list_of_price,cart):
 
     y = []
