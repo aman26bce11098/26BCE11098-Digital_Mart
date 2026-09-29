@@ -42,7 +42,7 @@ python Digital_Mart.py
 Digital_Mart/
 │
 ├── Digital_Mart.py     # Main program
-├── MART_MODULE.py    # Contains the user-defined functions
+├── MART_MODULE.py      # Contains the user-defined functions
 ├── statement.md
 └── README.md
 ```
